@@ -1,0 +1,56 @@
+body {
+    margin:0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    max-width: fit-content
+}
+
+.header{
+    background-color: #1f2937;
+    padding:16px;
+    display:flex;
+    flex-direction: column;
+}
+
+.box{
+    font-size: 18px;
+    color:#e5e7eb;
+    display: flex;
+    gap:16px;
+    justify-items: end;
+    align-items:center;
+    
+}
+
+.container {
+    display: flex;
+    justify-content:space-around;   
+}
+
+.intro {
+    display:flex;
+    justify-content: first baseline;
+}
+
+p {
+    font-size: 48px;
+    font-weight: bolder;
+    color:#f9faf8;
+}
+
+#subtext {
+    font-size: 18px;
+    color:#e5e7eb;
+    font-weight:200;
+}
+
+.start{
+    display: flex;
+    flex-direction: column;
+    margin: 0%;
+}
+
+button{
+    flex: none;
+}
