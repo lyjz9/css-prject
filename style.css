@@ -3,7 +3,9 @@ body {
     display: flex;
     flex-direction: column;
     box-sizing: border-box;
-    max-width: 100%;
+    overflow:scroll;
+    flex: auto;
+
 }
 
 .header{
@@ -69,19 +71,19 @@ button{
     margin-bottom: 30px;
 } 
   
-
 .text{
     color: #1f2937;
     font-size: 16px;
 }
 
-.info{
+.random{
     display: flex;
     justify-content: center;
+    gap: 10px;
+    text-align: center;
     gap:50px;
 }
 
-img {
-    display: flex;
-    justify-content: center;
+.text{
+    width: 150px;
 }
