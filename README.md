@@ -1,1 +1,2 @@
 # css-prject
+This is my first website and I had many difficulties. I did not know how to debug the problems I was having and spent a lot of time googling the issues. I think this project is very challenging, showing that there is still a lot to learn as a beginner. Additionally, my code may not be the most efficient way to produce a website but it is my own code. I thought of the solution by myself and with the help of other people.
