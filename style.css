@@ -11,7 +11,7 @@ body {
 
 .header{
     background-color: #1f2937;
-    padding:16px;
+    padding:0px 30px 40px 30px;
     display:flex;
     flex-direction: column;
     margin: 0;
@@ -50,7 +50,6 @@ p {
 .start{
     display: flex;
     flex-direction: column;
-    margin:0;
     flex-wrap: wrap;
 }
 
@@ -68,7 +67,9 @@ p {
 
 .intro{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    padding-top: 15px;
+    gap:10px;
 }
 
 .title{
